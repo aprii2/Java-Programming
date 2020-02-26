@@ -8,8 +8,8 @@ package com.pan.ch2.Ex_2_3;
 
 public class Rectangle {
     private Point p1,p2;
-    private double len = Math.abs(p1.getX() - p2.getX());
-    private double wid = Math.abs(p1.getY() - p2.getY());
+    private double len;
+    private double wid;
 
     public Point getP1() {
         return p1;
@@ -28,13 +28,17 @@ public class Rectangle {
     }
 
     public Rectangle(Point p1, Point p2) {
-        this.p1 = new Point(p1.getX(),p1.getY());
-        this.p2 = new Point(p2.getX(),p2.getY());
+        this.p1 = p1;
+        this.p2 = p2;
+        this.len = Math.abs(p1.getX() - p2.getX());
+        this.wid = Math.abs(p1.getY() - p2.getY());
     }
 
     public Rectangle(double x1,double y1,double x2,double y2) {
         this.p1 = new Point(x1,y1);
         this.p2 = new Point(x2,y2);
+        this.len = Math.abs(x1 - x2);
+        this.wid = Math.abs(y1 - y2);
     }
 
     public double getPerimeter() {
@@ -46,7 +50,7 @@ public class Rectangle {
     }
 
     public double getDiagonal() {
-        return Math.sqrt(this.len * this.wid);
+        return Math.sqrt(Math.pow(this.len,2) + Math.pow(this.wid,2));
     }
 
     public boolean checkIn(Point p3) {
