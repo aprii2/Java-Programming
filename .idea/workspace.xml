@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e75a67b-2839-4cc8-aaf6-9adeab60fcdf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch2/Ex_2_3拓/Rectangle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_1/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_2/Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_3/Calc1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_4/times9x9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_5/Tristar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_6/SumPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pan/ch2/Ex_2_3拓/Rectangle1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x10/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x11/EFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_1/StudentScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_2/StuduentScore2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_3/MatrixMutiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,20 +25,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Tristar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_5/Tristar.java">
+      <file leaf-file-name="Gcd1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="242">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumPower.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_6/SumPower.java">
+      <file leaf-file-name="StudentScore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_1/StudentScore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+            <state relative-caret-position="169">
+              <caret line="40" column="52" lean-forward="true" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StuduentScore2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_2/StuduentScore2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixMutiply.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_3/MatrixMutiply.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -77,6 +101,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_4/times9x9.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_5/Tristar.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_6/SumPower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_7/Gcd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x10/Contract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x11/EFactorial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_1/StudentScore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_2/StuduentScore2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_3/MatrixMutiply.java" />
       </list>
     </option>
   </component>
@@ -119,7 +152,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="243" />
+    <option name="x" value="223" />
     <option name="width" value="1425" />
     <option name="height" value="1035" />
   </component>
@@ -136,7 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,7 +220,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="pan" type="462c0819:PsiDirectoryNode" />
-              <item name="ch3" type="462c0819:PsiDirectoryNode" />
+              <item name="ch4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming-exercise" type="b2602c69:ProjectViewProjectNode" />
@@ -223,14 +256,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -258,47 +291,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumPower">
-    <configuration name="Calc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pan.ch3.Ex_3_3.Calc1" />
+  <component name="RunManager" selected="Application.MatrixMutiply">
+    <configuration name="Contract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pan.ch3.Ex_3_x10.Contract" />
       <module name="java-programming-exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pan.ch3.Ex_3_3.*" />
+          <option name="PATTERN" value="com.pan.ch3.Ex_3_x10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Score" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pan.ch3.Ex_3_2.Score" />
+    <configuration name="MatrixMutiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pan.ch4.Ex_4_3.MatrixMutiply" />
       <module name="java-programming-exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pan.ch3.Ex_3_2.*" />
+          <option name="PATTERN" value="com.pan.ch4.Ex_4_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SumPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pan.ch3.Ex_3_6.SumPower" />
+    <configuration name="StudentScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pan.ch4.Ex_4_1.StudentScore" />
       <module name="java-programming-exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pan.ch3.Ex_3_6.*" />
+          <option name="PATTERN" value="com.pan.ch4.Ex_4_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Tristar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pan.ch3.Ex_3_5.Tristar" />
+    <configuration name="StuduentScore2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pan.ch4.Ex_4_2.StuduentScore2" />
       <module name="java-programming-exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pan.ch3.Ex_3_5.*" />
+          <option name="PATTERN" value="com.pan.ch4.Ex_4_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,19 +389,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Score" />
-      <item itemvalue="Application.Calc1" />
+      <item itemvalue="Application.Contract" />
       <item itemvalue="Application.times9x9" />
-      <item itemvalue="Application.Tristar" />
-      <item itemvalue="Application.SumPower" />
+      <item itemvalue="Application.StudentScore" />
+      <item itemvalue="Application.StuduentScore2" />
+      <item itemvalue="Application.MatrixMutiply" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumPower" />
-        <item itemvalue="Application.Tristar" />
+        <item itemvalue="Application.MatrixMutiply" />
+        <item itemvalue="Application.StuduentScore2" />
+        <item itemvalue="Application.StudentScore" />
+        <item itemvalue="Application.Contract" />
         <item itemvalue="Application.times9x9" />
-        <item itemvalue="Application.Calc1" />
-        <item itemvalue="Application.Score" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +416,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582682375730</updated>
       <workItem from="1582682378212" duration="8629000" />
-      <workItem from="1582691137200" duration="27067000" />
+      <workItem from="1582691137200" duration="28272000" />
+      <workItem from="1582766762375" duration="29488000" />
     </task>
     <servers />
   </component>
@@ -420,7 +454,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35696000" />
+    <option name="totallyTimeSpent" value="66389000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,7 +466,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="0" width="1140" height="828" extended-state="0" />
+    <frame x="179" y="0" width="1140" height="828" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
@@ -444,24 +478,24 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32994455" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32850942" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33285093" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32850942" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985507" visible="true" weight="0.25415897" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985507" visible="true" weight="0.25878003" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.5014493" side_tool="true" weight="0.2495379" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39372325" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,17 +511,35 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_5/Tristar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_6/SumPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/pan/ch2/Ex_2_3/RectangleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -495,10 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
           <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding>
-            <element signature="e#1114#1115#0" expanded="true" />
-            <element signature="e#1191#1192#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -526,13 +574,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch2/Ex_2_3拓/Point1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch2/Ex_2_3拓/Point1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch2/Ex_2_4/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -551,9 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -575,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-466">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -585,17 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
-          <folding>
-            <element signature="e#1114#1115#0" expanded="true" />
-            <element signature="e#1191#1192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_2/Score.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -606,10 +631,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_4/times9x9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="64" lean-forward="true" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+        <state relative-caret-position="125">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_5/Tristar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_6/SumPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -620,17 +673,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_5/Tristar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_2/Score.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="-356">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_6/SumPower.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x9/Gcd1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x10/Contract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch3/Ex_3_x11/EFactorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_1/StudentScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="40" column="52" lean-forward="true" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_2/StuduentScore2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pan/ch4/Ex_4_3/MatrixMutiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
